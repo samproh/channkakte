@@ -5,12 +5,12 @@
 [![GitHub license](https://img.shields.io/github/license/ThyrithSor/momentkh.svg)]()
 
 # momentkh
-momentkh is an add-on feature to moment js library [DEMO](https://thyrithsor.github.io/momentkh).
+momentkh is an add-on feature to moment js library [DEMO](https://samproh.github.io/momentkh).
 
 ## Install 🗜
 ```
 $ npm install moment --save
-$ npm install @thyrith/momentkh --save
+$ npm install @samproh/momentkh --save
 ```
 
 ## How to use 🛫
